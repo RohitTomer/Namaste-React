@@ -1,0 +1,9 @@
+#heading {
+    color: red;
+    background-color: green;
+    margin: 80px
+}
+
+#parent {
+    color: green;
+}
